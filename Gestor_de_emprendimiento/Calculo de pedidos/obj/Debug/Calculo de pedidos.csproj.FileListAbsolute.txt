@@ -1,0 +1,24 @@
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\bin\Debug\Calculo de pedidos.exe.config
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\bin\Debug\Calculo de pedidos.exe
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\bin\Debug\Calculo de pedidos.pdb
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo de pedidos.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo_de_pedidos.Form1.resources
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo_de_pedidos.Properties.Resources.resources
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo de pedidos.csproj.GenerateResource.cache
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo de pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo de pedidos.exe
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo de pedidos.pdb
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo_de_pedidos.Calculo.resources
+C:\Users\Matt\source\repos\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo_de_pedidos.Registro.resources
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\bin\Debug\Calculo de pedidos.exe.config
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\bin\Debug\Calculo de pedidos.exe
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\bin\Debug\Calculo de pedidos.pdb
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo de pedidos.csproj.AssemblyReference.cache
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo_de_pedidos.Calculo.resources
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo_de_pedidos.Form1.resources
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo_de_pedidos.Properties.Resources.resources
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo_de_pedidos.Registro.resources
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo de pedidos.csproj.GenerateResource.cache
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo de pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo de pedidos.exe
+C:\Users\Matt\Downloads\Gestor_de_emprendimiento\Calculo de pedidos\obj\Debug\Calculo de pedidos.pdb
